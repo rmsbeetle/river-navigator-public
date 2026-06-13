@@ -1,0 +1,51 @@
+name: 🐞 Report a problem (English)
+description: Something doesn't work, hangs, or shows the wrong thing
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve **River Navigator**! Fill in what you can — even a couple of lines helps.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead
+      placeholder: "For example: with Airplane Mode on, the downloaded map won't open — blank screen"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce?
+      description: The steps that lead to the problem
+      placeholder: |
+        1. Opened a route
+        2. Tapped Start
+        3. Locked the screen
+        4. ...
+    validations:
+      required: false
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: Shown under the app name in TestFlight
+      placeholder: "1.0 (2)"
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Device and iOS version
+      placeholder: "iPhone 13, iOS 18.5"
+    validations:
+      required: false
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or video (optional)
+      description: Drag files right into this field
+    validations:
+      required: false
