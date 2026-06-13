@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="River Navigator Sample"
+     xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Sample River Route</name>
+    <desc>Demo route for testing River Navigator</desc>
+  </metadata>
+  <trk>
+    <name>Sample River Route</name>
+    <trkseg>
+      <trkpt lat="54.720000" lon="37.153000"></trkpt>
+      <trkpt lat="54.720243" lon="37.154395"></trkpt>
+      <trkpt lat="54.720352" lon="37.155492"></trkpt>
+      <trkpt lat="54.720207" lon="37.156339"></trkpt>
+      <trkpt lat="54.719716" lon="37.157009"></trkpt>
+      <trkpt lat="54.718822" lon="37.157596"></trkpt>
+      <trkpt lat="54.717509" lon="37.158200"></trkpt>
+      <trkpt lat="54.715807" lon="37.158920"></trkpt>
+      <trkpt lat="54.713786" lon="37.159843"></trkpt>
+      <trkpt lat="54.711550" lon="37.161036"></trkpt>
+      <trkpt lat="54.709223" lon="37.162535"></trkpt>
+      <trkpt lat="54.706941" lon="37.164346"></trkpt>
+      <trkpt lat="54.704835" lon="37.166443"></trkpt>
+      <trkpt lat="54.703018" lon="37.168767"></trkpt>
+      <trkpt lat="54.701570" lon="37.171239"></trkpt>
+      <trkpt lat="54.700535" lon="37.173761"></trkpt>
+      <trkpt lat="54.699914" lon="37.176233"></trkpt>
+      <trkpt lat="54.699663" lon="37.178557"></trkpt>
+      <trkpt lat="54.699700" lon="37.180654"></trkpt>
+      <trkpt lat="54.699912" lon="37.182465"></trkpt>
+      <trkpt lat="54.700170" lon="37.183964"></trkpt>
+      <trkpt lat="54.700338" lon="37.185157"></trkpt>
+      <trkpt lat="54.700290" lon="37.186080"></trkpt>
+      <trkpt lat="54.699923" lon="37.186800"></trkpt>
+      <trkpt lat="54.699167" lon="37.187404"></trkpt>
+      <trkpt lat="54.697992" lon="37.187991"></trkpt>
+      <trkpt lat="54.696414" lon="37.188661"></trkpt>
+      <trkpt lat="54.694490" lon="37.189508"></trkpt>
+      <trkpt lat="54.692312" lon="37.190605"></trkpt>
+      <trkpt lat="54.690000" lon="37.192000"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
