@@ -45,4 +45,4 @@ This policy may be updated; the date above reflects the latest version.
 
 ## Contact
 
-Questions about this policy: **samojlovog@gmail.com**
+Questions about this policy: **samoilov.oleg@icloud.com**
